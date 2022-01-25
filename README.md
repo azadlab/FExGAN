@@ -2,7 +2,7 @@
 
 ![FExGAN GIF Demo](FExGAN.gif)
 
-This is the implementation of the FExGAN proposed in the following article:
+This is the official implementation of the FExGAN proposed in the following article:
 
 [Explore the Expression: Facial Expression Generation using Auxiliary Classifier Generative Adversarial Network](http://arxiv.org/abs/2201.09061)
 
