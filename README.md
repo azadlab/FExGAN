@@ -35,11 +35,11 @@ If you use any part of this code or use ideas mentioned in the paper, please cit
 @article{Siddiqui_FExGAN_2022,
   author = {{Siddiqui}, J. Rafid},
   title = {{Explore the Expression: Facial Expression Generation using Auxiliary Classifier Generative Adversarial Network}},
-  doi = {10.0000/00000},
   journal = {ArXiv e-prints},
   archivePrefix = "arXiv",
   keywords = {Deep Learning, GAN, Facial Expressions},
   year = {2022}
+  url = {http://arxiv.org/abs/2201.09061},
 }
 
 ```
