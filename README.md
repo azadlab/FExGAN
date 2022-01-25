@@ -4,7 +4,7 @@
 
 This is the implementation of the FExGAN proposed in the following article:
 
-[Explore the Expression: Facial Expression Generation using Auxiliary Classifier Generative Adversarial Network](https://www.arxiv.com)
+[Explore the Expression: Facial Expression Generation using Auxiliary Classifier Generative Adversarial Network](http://arxiv.org/abs/2201.09061)
 
 FExGAN takes input an image and a vector of desired affect (e.g. angry,disgust,sad,surprise,joy,neutral and fear) and converts the input image to the desired emotion while keeping the identity of the original image.
 
