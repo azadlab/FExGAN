@@ -36,7 +36,7 @@ If you use any part of this code or use ideas mentioned in the paper, please cit
   author = {{Siddiqui}, J. Rafid},
   title = {{Explore the Expression: Facial Expression Generation using Auxiliary Classifier Generative Adversarial Network}},
   journal = {ArXiv e-prints},
-  archivePrefix = "arXiv:2201.09061",
+  archivePrefix = {arXiv:2201.09061},
   keywords = {Deep Learning, GAN, Facial Expressions},
   year = {2022},
   url = {http://arxiv.org/abs/2201.09061},  
